@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""
-save_mongo_images.py (updated - imghdr removed)
-
-Usage:
-    - Fill MONGODB_URI with your Atlas connection string (or set via env var).
-    - Set DB_NAME and COLL_NAME.
-    - Optionally set OUTPUT_DIR.
-    - Run: python save_mongo_images.py
-"""
-
 import os
 import sys
 import mimetypes
