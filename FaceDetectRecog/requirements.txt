@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+pillow
+torch
+torchvision
+facenet-pytorch
+scikit-learn
+ultralytics
+streamlit
+requests
+deep-sort-realtime
+bson
+pymongo
+img
+pymongo[srv]==3.12
